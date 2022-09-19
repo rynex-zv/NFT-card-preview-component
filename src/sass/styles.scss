@@ -16,9 +16,6 @@ $N_line_VeryDarkBlue: hsl(215, 32%, 27%);
 $N_White: hsl(0, 0%, 100%);
 
 :root {
-    // Primary
-
-    // Body Copy
     $FontSize: 18px;
     background-color: $N_main_VeryDarkBlue;
     color: $N_White;
@@ -49,7 +46,7 @@ transition: border 2s ,  box-shadow 2s;
         padding-right: 23.8px;
     }
     h2 {
-        font-weight: 700;
+        font-weight: 600;
 
         font-size: 1.4rem;
     }
@@ -174,7 +171,7 @@ hr {
     text-align: center;
     & a {
         text-decoration: none;
-        color: hsl(228, 57%, 41%);
+     color: rgb(103, 132, 246);
     }
 }
 @media (hover:hover) {

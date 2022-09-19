@@ -111,7 +111,7 @@ main > *:not(picture) {
   padding-right: 23.8px;
 }
 main h2 {
-  font-weight: 700;
+  font-weight: 600;
   font-size: 1.4rem;
 }
 main p {
@@ -235,7 +235,7 @@ hr {
 }
 .attribution a {
   text-decoration: none;
-  color: hsl(228deg, 57%, 41%);
+  color: rgb(103, 132, 246);
 }
 
 @media (hover: hover) {
